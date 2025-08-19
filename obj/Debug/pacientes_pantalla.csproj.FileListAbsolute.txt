@@ -1,0 +1,11 @@
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\bin\Debug\pacientes_pantalla.exe.config
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\bin\Debug\pacientes_pantalla.exe
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\bin\Debug\pacientes_pantalla.pdb
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.csproj.AssemblyReference.cache
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.Form1.resources
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.Properties.Resources.resources
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.csproj.GenerateResource.cache
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.csproj.CoreCompileInputs.cache
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.exe
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.pdb
+C:\Users\aac91\Documents\tercer bloque\pacientes_pantalla\obj\Debug\pacientes_pantalla.exe.config
